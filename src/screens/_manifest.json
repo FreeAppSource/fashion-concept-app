@@ -1,0 +1,30 @@
+{
+ "app": "Fashion Concept App",
+ "start": "season-home",
+ "screens": [
+  {
+   "slug": "season-product",
+   "name": "Season Product",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 42,
+   "links": 2
+  },
+  {
+   "slug": "season-home",
+   "name": "Season Home",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 80,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "nunito-sans",
+  "prata"
+ ]
+}
